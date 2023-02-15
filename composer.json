@@ -1,5 +1,5 @@
 {
-    "name": "worldline/module-magento-payment",
+    "name": "blackbird-agency/module-magento-payment",
     "description": "Worldline Online Payments",
     "require": {
         "php": ">=7.3",
@@ -11,7 +11,7 @@
         "worldline/module-magento-recurring-payments": "Allow recurring payments"
     },
     "type": "magento2-module",
-    "version": "2.5.1",
+    "version": "2.5.2",
     "license": [
         "OSL-3.0"
     ],
